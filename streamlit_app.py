@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.write("Ricardo Villarreal")
+st.write("Matrícula: A01666859")
+st.write("Aplicación recuperada y corregida")
 
 intro = st.Page(
     "Background/intro.py",
